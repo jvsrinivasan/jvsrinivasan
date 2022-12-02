@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jvsrinivasan
 - 👀 I’m interested in Mainframe and Python
-- 🌱 I’m currently learning Python for AI and ML
-- 📫 How to reach me? Email me at jvsrinivasan7@gmail.com
+- 📫 How to reach me? Email me at jvsrinivasan7@gmail.com / srinivasan.ssiet@gmail.com
+- 👇 Currently working on the repo that's pinned below
 
 <!---
 jvsrinivasan/jvsrinivasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
